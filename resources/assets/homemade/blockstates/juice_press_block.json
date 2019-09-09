@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "homemade:juice_press_block" },
+        "facing=south": { "model": "homemade:juice_press_block", "y": 180 },
+        "facing=west":  { "model": "homemade:juice_press_block", "y": 270 },
+        "facing=east":  { "model": "homemade:juice_press_block", "y": 90 }
+    }
+}
