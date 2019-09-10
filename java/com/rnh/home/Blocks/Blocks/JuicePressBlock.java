@@ -153,7 +153,9 @@ public class JuicePressBlock extends BlockBase {
     {
         return state.withRotation(mirrorIn.toRotation((EnumFacing)state.getValue(FACING)));
     }
-
+	
+	//Placeholder meathod to turn sugarcane into sugarcane juice bucket...
+	
 	public boolean onBlockActivated(World worldIn, BlockPos pos, IBlockState state, EntityPlayer playerIn, EnumHand hand, EnumFacing facing, float hitX, float hitY, float hitZ)
 	    {
 	        ItemStack itemstack = playerIn.getHeldItem(hand);
@@ -184,13 +186,7 @@ public class JuicePressBlock extends BlockBase {
 	                    return false;
 	                }
 	            }
-	    }
-	
-	 
-	
-	
-	
-	
+	    }	
 }
 
 
