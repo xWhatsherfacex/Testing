@@ -1,0 +1,179 @@
+{
+    "textures": {
+        "0": "homemade:blocks/juice_press_block",
+        "particle": "homemade:blocks/juice_press_block"
+    },
+    "elements": [
+        {
+            "from": [14, 0, 2],
+            "to": [16, 2, 14],
+            "color": 2,
+            "faces": {
+                "north": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 12, 2], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 12, 2], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 2, 12], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 2, 12], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "from": [0, 2, 7],
+            "to": [2, 16, 9],
+            "color": 7,
+            "faces": {
+                "north": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "from": [14, 2, 7],
+            "to": [16, 16, 9],
+            "color": 7,
+            "faces": {
+                "north": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 2, 14], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "from": [0, 0, 2],
+            "to": [2, 2, 14],
+            "color": 2,
+            "faces": {
+                "north": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 12, 2], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 12, 2], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 2, 12], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 2, 12], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "name": "cube2",
+            "from": [12, 9, 4],
+            "to": [13, 16, 12],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 8, 7], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 8, 7], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 1, 8], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 1, 8], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "name": "cube2",
+            "from": [3, 9, 4],
+            "to": [4, 16, 12],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 8, 7], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 8, 7], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 1, 8], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 1, 8], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "name": "cube2",
+            "from": [3, 9, 3],
+            "to": [13, 16, 4],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 10, 7], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 10, 7], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "name": "cube2",
+            "from": [3, 9, 12],
+            "to": [13, 16, 13],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 10, 7], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 10, 7], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 1, 7], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "from": [3, 8, 3],
+            "to": [13, 9, 13],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 10, 1], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 10, 10], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 10, 10], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "from": [7, 6, 7],
+            "to": [9, 7, 9],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 2, 1], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 2, 1], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 2, 1], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 2, 1], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 2, 2], "texture": "homemade:blocks/juice_press_block"}
+            }
+        },
+        {
+            "from": [2, 7, 2],
+            "to": [14, 8, 14],
+            "rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 8]},
+            "color": 4,
+            "faces": {
+                "north": {"uv": [0, 0, 12, 1], "texture": "homemade:blocks/juice_press_block"},
+                "east": {"uv": [0, 0, 12, 1], "texture": "homemade:blocks/juice_press_block"},
+                "south": {"uv": [0, 0, 12, 1], "texture": "homemade:blocks/juice_press_block"},
+                "west": {"uv": [0, 0, 12, 1], "texture": "homemade:blocks/juice_press_block"},
+                "up": {"uv": [0, 0, 12, 12], "texture": "homemade:blocks/juice_press_block"},
+                "down": {"uv": [0, 0, 12, 12], "texture": "homemade:blocks/juice_press_block"}
+            }
+        }
+    ],
+    "groups": [
+        {
+            "name": "Stand",
+            "origin": [8, 8, 8],
+            "children": [0, 1, 2, 3]
+        },
+        {
+            "name": "Barrel",
+            "origin": [8, 8, 8],
+            "children": [4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+            "name": "Presser",
+            "origin": [8, 8, 8],
+            "children": []
+        }
+    ]
+}
